@@ -1,0 +1,4652 @@
+[
+  {
+    "id": "km_000001",
+    "kaomoji": "(* ^ ω ^)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000002",
+    "kaomoji": "(´ ∀ ` *)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000003",
+    "kaomoji": "٩(◕‿◕｡)۶",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000004",
+    "kaomoji": "☆*:.｡.o(≧▽≦)o.｡.:*☆",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000005",
+    "kaomoji": "(o^▽^o)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000006",
+    "kaomoji": "(⌒▽⌒)☆",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000007",
+    "kaomoji": "<(￣︶￣)>",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000008",
+    "kaomoji": "。.:☆*:･'(*⌒―⌒*)))",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000009",
+    "kaomoji": "ヽ(・∀・)ﾉ",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000010",
+    "kaomoji": "(´｡• ω •｡`)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000011",
+    "kaomoji": "(￣ω￣)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000012",
+    "kaomoji": "｀;:゛;｀;･(°ε° )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000013",
+    "kaomoji": "(o･ω･o)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000014",
+    "kaomoji": "(＠＾◡＾)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000015",
+    "kaomoji": "ヽ(*・ω・)ﾉ",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000016",
+    "kaomoji": "(o_ _)ﾉ彡☆",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000017",
+    "kaomoji": "(^人^)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000018",
+    "kaomoji": "(o´▽`o)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000019",
+    "kaomoji": "(*´▽`*)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000020",
+    "kaomoji": "｡ﾟ( ﾟ^∀^ﾟ)ﾟ｡",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000021",
+    "kaomoji": "( ´ ω ` )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000022",
+    "kaomoji": "(((o(*°▽°*)o)))",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000023",
+    "kaomoji": "(≧◡≦)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000024",
+    "kaomoji": "(o´∀`o)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000025",
+    "kaomoji": "(´• ω •`)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000026",
+    "kaomoji": "(＾▽＾)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000027",
+    "kaomoji": "(⌒ω⌒)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000028",
+    "kaomoji": "∑d(°∀°d)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000029",
+    "kaomoji": "╰(▔∀▔)╯",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000030",
+    "kaomoji": "(─‿‿─)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000031",
+    "kaomoji": "(*^‿^*)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000032",
+    "kaomoji": "ヽ(o^ ^o)ﾉ",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000033",
+    "kaomoji": "(✯◡✯)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000034",
+    "kaomoji": "(◕‿◕)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000035",
+    "kaomoji": "(*≧ω≦*)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000036",
+    "kaomoji": "(☆▽☆)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000037",
+    "kaomoji": "(⌒‿⌒)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000038",
+    "kaomoji": "＼(≧▽≦)／",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000039",
+    "kaomoji": "ヽ(o＾▽＾o)ノ",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000040",
+    "kaomoji": "☆ ～('▽^人)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000041",
+    "kaomoji": "(*°▽°*)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000042",
+    "kaomoji": "٩(｡•́‿•̀｡)۶",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000043",
+    "kaomoji": "(✧ω✧)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000044",
+    "kaomoji": "ヽ(*⌒▽⌒*)ﾉ",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000045",
+    "kaomoji": "(´｡• ᵕ •｡`)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000046",
+    "kaomoji": "( ´ ▽ ` )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000047",
+    "kaomoji": "(￣▽￣)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000048",
+    "kaomoji": "╰(*´︶`*)╯",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000049",
+    "kaomoji": "ヽ(>∀<☆)ノ",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000050",
+    "kaomoji": "o(≧▽≦)o",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000051",
+    "kaomoji": "(☆ω☆)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000052",
+    "kaomoji": "(っ˘ω˘ς )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000053",
+    "kaomoji": "＼(￣▽￣)／",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000054",
+    "kaomoji": "(*¯︶¯*)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000055",
+    "kaomoji": "＼(＾▽＾)／",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000056",
+    "kaomoji": "٩(◕‿◕)۶",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000057",
+    "kaomoji": "(o˘◡˘o)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000058",
+    "kaomoji": "\\(★ω★)/",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000059",
+    "kaomoji": "\\(^ヮ^)/",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000060",
+    "kaomoji": "(〃＾▽＾〃)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000061",
+    "kaomoji": "(╯✧▽✧)╯",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000062",
+    "kaomoji": "o(>ω<)o",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000063",
+    "kaomoji": "o( ❛ᴗ❛ )o",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000064",
+    "kaomoji": "｡ﾟ(TヮT)ﾟ｡",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000065",
+    "kaomoji": "( ‾́ ◡ ‾́ )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000066",
+    "kaomoji": "(ﾉ´ヮ`)ﾉ*: ･ﾟ",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000067",
+    "kaomoji": "(b ᵔ▽ᵔ)b",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000068",
+    "kaomoji": "(๑˃ᴗ˂)ﻭ",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000069",
+    "kaomoji": "(๑˘︶˘๑)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000070",
+    "kaomoji": "( ˙꒳​˙ )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000071",
+    "kaomoji": "(*꒦ິ꒳꒦ີ)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000072",
+    "kaomoji": "°˖✧◝(⁰▿⁰)◜✧˖°",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000073",
+    "kaomoji": "(´･ᴗ･ ` )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000074",
+    "kaomoji": "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000075",
+    "kaomoji": "(„• ֊ •„)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000076",
+    "kaomoji": "(.❛ ᴗ ❛.)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000077",
+    "kaomoji": "(⁀ᗢ⁀)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000078",
+    "kaomoji": "(￢‿￢ )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000079",
+    "kaomoji": "(¬‿¬ )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000080",
+    "kaomoji": "(*￣▽￣)b",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000081",
+    "kaomoji": "( ˙▿˙ )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000082",
+    "kaomoji": "(¯▿¯)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000083",
+    "kaomoji": "( ◕▿◕ )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000084",
+    "kaomoji": "＼(٥⁀▽⁀ )／",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000085",
+    "kaomoji": "(„• ᴗ •„)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000086",
+    "kaomoji": "(ᵔ◡ᵔ)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000087",
+    "kaomoji": "( ´ ▿ ` )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000088",
+    "kaomoji": "(๑>◡<๑)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000089",
+    "kaomoji": "( = ⩊ = )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000090",
+    "kaomoji": "( ´ ꒳ ` )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000091",
+    "kaomoji": "⸜( ´ ꒳ ` )⸝",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000092",
+    "kaomoji": "⸜(⸝⸝⸝´꒳`⸝⸝⸝)⸝",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000093",
+    "kaomoji": "⸜(*ˊᗜˋ*)⸝",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000094",
+    "kaomoji": "⸜( *ˊᵕˋ* )⸝",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000095",
+    "kaomoji": "(>⩊<)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000096",
+    "kaomoji": "(ᗒ⩊ᗕ)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000097",
+    "kaomoji": "(ᵔ⩊ᵔ)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000098",
+    "kaomoji": "( ᵔ ⩊ ᵔ )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000099",
+    "kaomoji": "(•⩊•)",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000100",
+    "kaomoji": "( • ⩊ • )",
+    "subcategory": "Joy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000101",
+    "kaomoji": "(ﾉ´ з `)ノ",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000102",
+    "kaomoji": "(♡μ_μ)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000103",
+    "kaomoji": "(*^^*)♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000104",
+    "kaomoji": "☆⌒ヽ(*'､^*)chu",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000105",
+    "kaomoji": "(♡-_-♡)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000106",
+    "kaomoji": "(￣ε￣＠)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000107",
+    "kaomoji": "ヽ(♡‿♡)ノ",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000108",
+    "kaomoji": "( ´ ∀ `)ノ～ ♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000109",
+    "kaomoji": "(─‿‿─)♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000110",
+    "kaomoji": "(´｡• ᵕ •｡`) ♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000111",
+    "kaomoji": "(*♡∀♡)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000112",
+    "kaomoji": "(｡・//ε//・｡)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000113",
+    "kaomoji": "(´ ω `♡)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000114",
+    "kaomoji": "♡( ◡‿◡ )",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000115",
+    "kaomoji": "(◕‿◕)♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000116",
+    "kaomoji": "(/▽＼*)｡o○♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000117",
+    "kaomoji": "(ღ˘⌣˘ღ)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000118",
+    "kaomoji": "(♡°▽°♡)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000119",
+    "kaomoji": "♡(｡- ω -)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000120",
+    "kaomoji": "♡ ～('▽^人)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000121",
+    "kaomoji": "(´• ω •`) ♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000122",
+    "kaomoji": "(´ ε ` )♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000123",
+    "kaomoji": "(´｡• ω •｡`) ♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000124",
+    "kaomoji": "( ´ ▽ ` ).｡ｏ♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000125",
+    "kaomoji": "╰(*´︶`*)╯♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000126",
+    "kaomoji": "(*˘︶˘*).｡.:*♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000127",
+    "kaomoji": "(♡˙︶˙♡)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000128",
+    "kaomoji": "♡＼(￣▽￣)／♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000129",
+    "kaomoji": "(≧◡≦) ♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000130",
+    "kaomoji": "(⌒▽⌒)♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000131",
+    "kaomoji": "(*¯ ³¯*)♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000132",
+    "kaomoji": "(っ˘з(˘⌣˘ ) ♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000133",
+    "kaomoji": "♡ (˘▽˘>ԅ( ˘⌣˘)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000134",
+    "kaomoji": "( ˘⌣˘)♡(˘⌣˘ )",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000135",
+    "kaomoji": "(/^-^(^ ^*)/ ♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000136",
+    "kaomoji": "٩(♡ε♡)۶",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000137",
+    "kaomoji": "σ(≧ε≦σ) ♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000138",
+    "kaomoji": "♡ (⇀ 3 ↼)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000139",
+    "kaomoji": "♡ (￣З￣)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000140",
+    "kaomoji": "(❤ω❤)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000141",
+    "kaomoji": "(˘∀˘)/(μ‿μ) ❤",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000142",
+    "kaomoji": "❤ (ɔˆз(ˆ⌣ˆc)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000143",
+    "kaomoji": "(´♡‿♡`)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000144",
+    "kaomoji": "(°◡°♡)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000145",
+    "kaomoji": "Σ>―(〃°ω°〃)♡→",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000146",
+    "kaomoji": "(´,,•ω•,,)♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000147",
+    "kaomoji": "(´꒳`)♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000148",
+    "kaomoji": "♡(>ᴗ•)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000149",
+    "kaomoji": "(❤⩊❤)[=_=](☆ε☆)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000150",
+    "kaomoji": "( ´ ꒳ ` ) ♡",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000151",
+    "kaomoji": "(˘˘ ♡)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000152",
+    "kaomoji": "(´ ˘ `).｡oO (♡)",
+    "subcategory": "Love",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000153",
+    "kaomoji": "(⌒_⌒;)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000154",
+    "kaomoji": "(o^ ^o)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000155",
+    "kaomoji": "(*/ω＼)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000156",
+    "kaomoji": "(*/。＼)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000157",
+    "kaomoji": "(*/_＼)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000158",
+    "kaomoji": "(*ﾉωﾉ)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000159",
+    "kaomoji": "(o-_-o)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000160",
+    "kaomoji": "(*μ_μ)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000161",
+    "kaomoji": "( ◡‿◡ *)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000162",
+    "kaomoji": "(ᵔ.ᵔ)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000163",
+    "kaomoji": "(*ﾉ∀`*)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000164",
+    "kaomoji": "(//▽//)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000165",
+    "kaomoji": "(//ω//)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000166",
+    "kaomoji": "(ノ*°▽°*)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000167",
+    "kaomoji": "(*^.^*)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000168",
+    "kaomoji": "(*ﾉ▽ﾉ)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000169",
+    "kaomoji": "(￣▽￣*)ゞ",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000170",
+    "kaomoji": "(⁄ ⁄•⁄ω⁄•⁄ ⁄)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000171",
+    "kaomoji": "(*/▽＼*)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000172",
+    "kaomoji": "(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000173",
+    "kaomoji": "(„ಡωಡ„)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000174",
+    "kaomoji": "(ง ื▿ ื)ว",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000175",
+    "kaomoji": "( 〃▽〃)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000176",
+    "kaomoji": "(/▿＼ )",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000177",
+    "kaomoji": "(///￣ ￣///)",
+    "subcategory": "Embarrassment",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000178",
+    "kaomoji": "(ノ_<。)ヾ(´ ▽ ` )",
+    "subcategory": "Sympathy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000179",
+    "kaomoji": "｡･ﾟ･(ﾉД`)ヽ(￣ω￣ )",
+    "subcategory": "Sympathy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000180",
+    "kaomoji": "ρ(- ω -、)ヾ(￣ω￣; )",
+    "subcategory": "Sympathy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000181",
+    "kaomoji": "ヽ(￣ω￣(。。 )ゝ",
+    "subcategory": "Sympathy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000182",
+    "kaomoji": "(*´ I `)ﾉﾟ(ﾉД｀ﾟ)ﾟ｡",
+    "subcategory": "Sympathy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000183",
+    "kaomoji": "ヽ(~_~(・_・ )ゝ",
+    "subcategory": "Sympathy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000184",
+    "kaomoji": "(ﾉ_；)ヾ(´ ∀ ` )",
+    "subcategory": "Sympathy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000185",
+    "kaomoji": "(; ω ; )ヾ(´∀`* )",
+    "subcategory": "Sympathy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000186",
+    "kaomoji": "(*´ー)ﾉ(ノд`)",
+    "subcategory": "Sympathy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000187",
+    "kaomoji": "(´-ω-`( _ _ )",
+    "subcategory": "Sympathy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000188",
+    "kaomoji": "(っ´ω`)ﾉ(╥ω╥)",
+    "subcategory": "Sympathy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000189",
+    "kaomoji": "(ｏ・_・)ノ”(ノ_<、)",
+    "subcategory": "Sympathy",
+    "category": "Positive Emotions"
+  },
+  {
+    "id": "km_000190",
+    "kaomoji": "(＃＞＜)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000191",
+    "kaomoji": "(；⌣̀_⌣́)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000192",
+    "kaomoji": "☆ｏ(＞＜；)○",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000193",
+    "kaomoji": "(￣ ￣|||)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000194",
+    "kaomoji": "(；￣Д￣)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000195",
+    "kaomoji": "(￣□￣」)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000196",
+    "kaomoji": "(＃￣0￣)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000197",
+    "kaomoji": "(＃￣ω￣)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000198",
+    "kaomoji": "(￢_￢;)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000199",
+    "kaomoji": "(＞ｍ＜)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000200",
+    "kaomoji": "(」°ロ°)」",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000201",
+    "kaomoji": "(〃＞＿＜;〃)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000202",
+    "kaomoji": "(＾＾＃)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000203",
+    "kaomoji": "(︶︹︺)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000204",
+    "kaomoji": "(￣ヘ￣)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000205",
+    "kaomoji": "<(￣ ﹌ ￣)>",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000206",
+    "kaomoji": "(￣︿￣)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000207",
+    "kaomoji": "(＞﹏＜)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000208",
+    "kaomoji": "(--_--)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000209",
+    "kaomoji": "凸(￣ヘ￣)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000210",
+    "kaomoji": "ヾ( ￣O￣)ツ",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000211",
+    "kaomoji": "(⇀‸↼‶)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000212",
+    "kaomoji": "o(>< )o",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000213",
+    "kaomoji": "(」＞＜)」",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000214",
+    "kaomoji": "(ᗒᗣᗕ)՞",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000215",
+    "kaomoji": "(눈_눈)",
+    "subcategory": "Dissatisfaction",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000216",
+    "kaomoji": "(＃`Д´)",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000217",
+    "kaomoji": "(`皿´＃)",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000218",
+    "kaomoji": "( ` ω ´ )",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000219",
+    "kaomoji": "ヽ( `д´*)ノ",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000220",
+    "kaomoji": "(・`ω´・)",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000221",
+    "kaomoji": "(`ー´)",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000222",
+    "kaomoji": "ヽ(`⌒´メ)ノ",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000223",
+    "kaomoji": "凸(`△´＃)",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000224",
+    "kaomoji": "( `ε´ )",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000225",
+    "kaomoji": "ψ( ` ∇ ´ )ψ",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000226",
+    "kaomoji": "ヾ(`ヘ´)ﾉﾞ",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000227",
+    "kaomoji": "ヽ(‵﹏´)ノ",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000228",
+    "kaomoji": "(ﾒ` ﾛ ´)",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000229",
+    "kaomoji": "(╬`益´)",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000230",
+    "kaomoji": "┌∩┐(◣_◢)┌∩┐",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000231",
+    "kaomoji": "凸( ` ﾛ ´ )凸",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000232",
+    "kaomoji": "Σ(▼□▼メ)",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000233",
+    "kaomoji": "(°ㅂ°╬)",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000234",
+    "kaomoji": "ψ(▼へ▼メ)～→",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000235",
+    "kaomoji": "(ノ°益°)ノ",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000236",
+    "kaomoji": "(҂ `з´ )",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000237",
+    "kaomoji": "(‡▼益▼)",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000238",
+    "kaomoji": "(҂` ﾛ ´)凸",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000239",
+    "kaomoji": "((╬◣﹏◢))",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000240",
+    "kaomoji": "٩(╬ʘ益ʘ╬)۶",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000241",
+    "kaomoji": "(╬ Ò﹏Ó)",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000242",
+    "kaomoji": "＼＼٩(๑`^´๑)۶／／",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000243",
+    "kaomoji": "(凸ಠ益ಠ)凸",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000244",
+    "kaomoji": "↑_(ΦwΦ)Ψ",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000245",
+    "kaomoji": "←~(Ψ▼ｰ▼)∈",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000246",
+    "kaomoji": "୧((#Φ益Φ#))୨",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000247",
+    "kaomoji": "٩(ఠ益ఠ)۶",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000248",
+    "kaomoji": "(ﾉಥ益ಥ)ﾉ",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000249",
+    "kaomoji": "(≖､≖╬)",
+    "subcategory": "Anger",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000250",
+    "kaomoji": "(ノ_<。)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000251",
+    "kaomoji": "(-_-)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000252",
+    "kaomoji": "(´-ω-`)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000253",
+    "kaomoji": ".･ﾟﾟ･(／ω＼)･ﾟﾟ･.",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000254",
+    "kaomoji": "(μ_μ)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000255",
+    "kaomoji": "(ﾉД`)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000256",
+    "kaomoji": "(-ω-、)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000257",
+    "kaomoji": "。゜゜(´Ｏ`) ゜゜。",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000258",
+    "kaomoji": "o(TヘTo)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000259",
+    "kaomoji": "( ; ω ; )",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000260",
+    "kaomoji": "(｡╯︵╰｡)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000261",
+    "kaomoji": "｡･ﾟﾟ*(>д<)*ﾟﾟ･｡",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000262",
+    "kaomoji": "( ﾟ，_ゝ｀)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000263",
+    "kaomoji": "(个_个)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000264",
+    "kaomoji": "(╯︵╰,)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000265",
+    "kaomoji": "｡･ﾟ(ﾟ><ﾟ)ﾟ･｡",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000266",
+    "kaomoji": "( ╥ω╥ )",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000267",
+    "kaomoji": "(╯_╰)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000268",
+    "kaomoji": "(╥_╥)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000269",
+    "kaomoji": ".｡･ﾟﾟ･(＞_＜)･ﾟﾟ･｡.",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000270",
+    "kaomoji": "(／ˍ・、)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000271",
+    "kaomoji": "(ノ_<、)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000272",
+    "kaomoji": "(╥﹏╥)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000273",
+    "kaomoji": "｡ﾟ(｡ﾉωヽ｡)ﾟ｡",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000274",
+    "kaomoji": "(つω`｡)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000275",
+    "kaomoji": "(｡T ω T｡)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000276",
+    "kaomoji": "(ﾉω･､)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000277",
+    "kaomoji": "･ﾟ･(｡>ω<｡)･ﾟ･",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000278",
+    "kaomoji": "(T_T)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000279",
+    "kaomoji": "(>_<)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000280",
+    "kaomoji": "(っ˘̩╭╮˘̩)っ",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000281",
+    "kaomoji": "｡ﾟ･ (>﹏<) ･ﾟ｡",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000282",
+    "kaomoji": "o(〒﹏〒)o",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000283",
+    "kaomoji": "(｡•́︿•̀｡)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000284",
+    "kaomoji": "(ಥ﹏ಥ)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000285",
+    "kaomoji": "(ಡ‸ಡ)",
+    "subcategory": "Sadness",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000286",
+    "kaomoji": "~(>_<~)",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000287",
+    "kaomoji": "☆⌒(> _ <)",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000288",
+    "kaomoji": "☆⌒(>。<)",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000289",
+    "kaomoji": "(☆_@)",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000290",
+    "kaomoji": "(×_×)",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000291",
+    "kaomoji": "(x_x)",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000292",
+    "kaomoji": "(×_×)⌒☆",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000293",
+    "kaomoji": "(x_x)⌒☆",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000294",
+    "kaomoji": "(×﹏×)",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000295",
+    "kaomoji": "☆(＃××)",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000296",
+    "kaomoji": "(＋_＋)",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000297",
+    "kaomoji": "[ ± _ ± ]",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000298",
+    "kaomoji": "٩(× ×)۶",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000299",
+    "kaomoji": "_:(´ཀ`」 ∠):_",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000300",
+    "kaomoji": "(ﾒ﹏ﾒ)",
+    "subcategory": "Pain",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000301",
+    "kaomoji": "(ノωヽ)",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000302",
+    "kaomoji": "(／。＼)",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000303",
+    "kaomoji": "(ﾉ_ヽ)",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000304",
+    "kaomoji": "..・ヾ(。＞＜)シ",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000305",
+    "kaomoji": "(″ロ゛)",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000306",
+    "kaomoji": "(;;;*_*)",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000307",
+    "kaomoji": "(・人・)",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000308",
+    "kaomoji": "＼(〇_ｏ)／",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000309",
+    "kaomoji": "(/ω＼)",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000310",
+    "kaomoji": "(/_＼)",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000311",
+    "kaomoji": "〜(＞＜)〜",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000312",
+    "kaomoji": "Σ(°△°|||)︴",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000313",
+    "kaomoji": "(((＞＜)))",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000314",
+    "kaomoji": "{{ (>_<) }}",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000315",
+    "kaomoji": "＼(º □ º l|l)/",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000316",
+    "kaomoji": "〣( ºΔº )〣",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000317",
+    "kaomoji": "▓▒░(°◡°)░▒▓",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000318",
+    "kaomoji": "(°□°;)",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000319",
+    "kaomoji": "Σ(°ロ°)!!!",
+    "subcategory": "Fear",
+    "category": "Negative Emotions"
+  },
+  {
+    "id": "km_000320",
+    "kaomoji": "ヽ(ー_ー )ノ",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000321",
+    "kaomoji": "ヽ(´ー` )┌",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000322",
+    "kaomoji": "┐(‘～` )┌",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000323",
+    "kaomoji": "ヽ(　￣д￣)ノ",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000324",
+    "kaomoji": "┐(￣ヘ￣)┌",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000325",
+    "kaomoji": "ヽ(￣～￣　)ノ",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000326",
+    "kaomoji": "╮(￣_￣)╭",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000327",
+    "kaomoji": "ヽ(ˇヘˇ)ノ",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000328",
+    "kaomoji": "┐(￣～￣)┌",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000329",
+    "kaomoji": "┐(︶▽︶)┌",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000330",
+    "kaomoji": "╮(￣～￣)╭",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000331",
+    "kaomoji": "¯\\_(ツ)_/¯",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000332",
+    "kaomoji": "┐( ´ д ` )┌",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000333",
+    "kaomoji": "╮(︶︿︶)╭",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000334",
+    "kaomoji": "┐(￣∀￣)┌",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000335",
+    "kaomoji": "┐( ˘ ､ ˘ )┌",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000336",
+    "kaomoji": "╮(︶▽︶)╭",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000337",
+    "kaomoji": "╮( ˘ ､ ˘ )╭",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000338",
+    "kaomoji": "┐( ˘_˘ )┌",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000339",
+    "kaomoji": "╮( ˘_˘ )╭",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000340",
+    "kaomoji": "┐(￣ヮ￣)┌",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000341",
+    "kaomoji": "ᕕ( ᐛ )ᕗ",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000342",
+    "kaomoji": "┐(シ)┌",
+    "subcategory": "Indifference",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000343",
+    "kaomoji": "(￣ω￣;)",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000344",
+    "kaomoji": "σ(￣、￣〃)",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000345",
+    "kaomoji": "(￣～￣;)",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000346",
+    "kaomoji": "(-_-;)・・・",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000347",
+    "kaomoji": "┐('～`;)┌",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000348",
+    "kaomoji": "(・_・ヾ",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000349",
+    "kaomoji": "(〃￣ω￣〃ゞ",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000350",
+    "kaomoji": "┐(￣ヘ￣;)┌",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000351",
+    "kaomoji": "(・_・;)",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000352",
+    "kaomoji": "(￣_￣)・・・",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000353",
+    "kaomoji": "╮(￣ω￣;)╭",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000354",
+    "kaomoji": "(¯ . ¯;)",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000355",
+    "kaomoji": "(＠_＠)",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000356",
+    "kaomoji": "(・・;)ゞ",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000357",
+    "kaomoji": "Σ(￣。￣ﾉ)",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000358",
+    "kaomoji": "(・・ ) ?",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000359",
+    "kaomoji": "(•ิ_•ิ)?",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000360",
+    "kaomoji": "(◎ ◎)ゞ",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000361",
+    "kaomoji": "(ーー;)",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000362",
+    "kaomoji": "ლ(ಠ_ಠ ლ)",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000363",
+    "kaomoji": "ლ(¯ロ¯\"ლ)",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000364",
+    "kaomoji": "(¯ . ¯٥)",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000365",
+    "kaomoji": "(¯  ¯٥)",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000366",
+    "kaomoji": "(・・?)",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000367",
+    "kaomoji": "(??_??)",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000368",
+    "kaomoji": "(⊙.⊙)?",
+    "subcategory": "Confusion",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000369",
+    "kaomoji": "(￢_￢)",
+    "subcategory": "Doubt",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000370",
+    "kaomoji": "(→_→)",
+    "subcategory": "Doubt",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000371",
+    "kaomoji": "(￢ ￢)",
+    "subcategory": "Doubt",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000372",
+    "kaomoji": "(¬_¬ )",
+    "subcategory": "Doubt",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000373",
+    "kaomoji": "(←_←)",
+    "subcategory": "Doubt",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000374",
+    "kaomoji": "(¬ ¬ )",
+    "subcategory": "Doubt",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000375",
+    "kaomoji": "(↼_↼)",
+    "subcategory": "Doubt",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000376",
+    "kaomoji": "(⇀_⇀)",
+    "subcategory": "Doubt",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000377",
+    "kaomoji": "(ᓀ ᓀ)",
+    "subcategory": "Doubt",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000378",
+    "kaomoji": "(„¬ᴗ¬„)",
+    "subcategory": "Doubt",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000379",
+    "kaomoji": "w(°ｏ°)w",
+    "subcategory": "Surprise",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000380",
+    "kaomoji": "ヽ(°〇°)ﾉ",
+    "subcategory": "Surprise",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000381",
+    "kaomoji": "Σ(O_O)",
+    "subcategory": "Surprise",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000382",
+    "kaomoji": "Σ(°ロ°)",
+    "subcategory": "Surprise",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000383",
+    "kaomoji": "(⊙_⊙)",
+    "subcategory": "Surprise",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000384",
+    "kaomoji": "(o_O)",
+    "subcategory": "Surprise",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000385",
+    "kaomoji": "(O_O;)",
+    "subcategory": "Surprise",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000386",
+    "kaomoji": "(O.O)",
+    "subcategory": "Surprise",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000387",
+    "kaomoji": "(°ロ°) !",
+    "subcategory": "Surprise",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000388",
+    "kaomoji": "(o_O) !",
+    "subcategory": "Surprise",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000389",
+    "kaomoji": "(□_□)",
+    "subcategory": "Surprise",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000390",
+    "kaomoji": "Σ(□_□)",
+    "subcategory": "Surprise",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000391",
+    "kaomoji": "∑(O_O;)",
+    "subcategory": "Surprise",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000392",
+    "kaomoji": "( : ౦ ‸ ౦ : )",
+    "subcategory": "Surprise",
+    "category": "Neutral Emotions"
+  },
+  {
+    "id": "km_000393",
+    "kaomoji": "(*・ω・)ﾉ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000394",
+    "kaomoji": "(￣▽￣)ノ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000395",
+    "kaomoji": "(°▽°)/",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000396",
+    "kaomoji": "( ´ ∀ ` )ﾉ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000397",
+    "kaomoji": "(^-^*)/",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000398",
+    "kaomoji": "(＠´ー`)ﾉﾞ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000399",
+    "kaomoji": "(´• ω •`)ﾉ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000400",
+    "kaomoji": "( ° ∀ ° )ﾉﾞ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000401",
+    "kaomoji": "ヾ(*'▽'*)",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000402",
+    "kaomoji": "＼(⌒▽⌒)",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000403",
+    "kaomoji": "ヾ(☆▽☆)",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000404",
+    "kaomoji": "( ´ ▽ ` )ﾉ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000405",
+    "kaomoji": "(^０^)ノ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000406",
+    "kaomoji": "~ヾ(・ω・)",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000407",
+    "kaomoji": "(・∀・)ノ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000408",
+    "kaomoji": "ヾ(・ω・*)",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000409",
+    "kaomoji": "(*°ｰ°)ﾉ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000410",
+    "kaomoji": "(・_・)ノ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000411",
+    "kaomoji": "(o´ω`o)ﾉ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000412",
+    "kaomoji": "( ´ ▽ ` )/",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000413",
+    "kaomoji": "(￣ω￣)/",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000414",
+    "kaomoji": "( ´ ω ` )ノﾞ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000415",
+    "kaomoji": "(⌒ω⌒)ﾉ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000416",
+    "kaomoji": "(o^ ^o)/",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000417",
+    "kaomoji": "(≧▽≦)/",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000418",
+    "kaomoji": "(✧∀✧)/",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000419",
+    "kaomoji": "(o´▽`o)ﾉ",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000420",
+    "kaomoji": "(￣▽￣)/",
+    "subcategory": "Greeting",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000421",
+    "kaomoji": "(づ￣ ³￣)づ",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000422",
+    "kaomoji": "(つ≧▽≦)つ",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000423",
+    "kaomoji": "(つ✧ω✧)つ",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000424",
+    "kaomoji": "(づ ◕‿◕ )づ",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000425",
+    "kaomoji": "(⊃｡•́‿•̀｡)⊃",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000426",
+    "kaomoji": "(つ . •́ _ʖ •̀ .)つ",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000427",
+    "kaomoji": "(っಠ‿ಠ)っ",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000428",
+    "kaomoji": "(づ◡﹏◡)づ",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000429",
+    "kaomoji": "⊂(´• ω •`⊂)",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000430",
+    "kaomoji": "⊂(･ω･*⊂)",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000431",
+    "kaomoji": "⊂(￣▽￣)⊃",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000432",
+    "kaomoji": "⊂( ´ ▽ ` )⊃",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000433",
+    "kaomoji": "( ~*-*)~",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000434",
+    "kaomoji": "(ノ= ⩊ = )ノ",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000435",
+    "kaomoji": "(っ ᵔ◡ᵔ)っ",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000436",
+    "kaomoji": "(っ╹ᆺ╹)っ",
+    "subcategory": "Hugging",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000437",
+    "kaomoji": "(^_~)",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000438",
+    "kaomoji": "( ﾟｏ⌒)",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000439",
+    "kaomoji": "(^_-)≡☆",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000440",
+    "kaomoji": "(^ω~)",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000441",
+    "kaomoji": "(>ω^)",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000442",
+    "kaomoji": "(~人^)",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000443",
+    "kaomoji": "(^_-)",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000444",
+    "kaomoji": "( -_・)",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000445",
+    "kaomoji": "(^_<)〜☆",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000446",
+    "kaomoji": "(^人<)〜☆",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000447",
+    "kaomoji": "☆⌒(≧▽​° )",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000448",
+    "kaomoji": "☆⌒(ゝ。∂)",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000449",
+    "kaomoji": "(^_<)",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000450",
+    "kaomoji": "(^_−)☆",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000451",
+    "kaomoji": "(･ω<)☆",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000452",
+    "kaomoji": "(^.~)☆",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000453",
+    "kaomoji": "(^.~)",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000454",
+    "kaomoji": "(｡•̀ᴗ-)✧",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000455",
+    "kaomoji": "(>ᴗ•)",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000456",
+    "kaomoji": "☆(>ᴗ•)",
+    "subcategory": "Winking",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000457",
+    "kaomoji": "m(_ _)m",
+    "subcategory": "Apologizing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000458",
+    "kaomoji": "(シ_ _)シ",
+    "subcategory": "Apologizing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000459",
+    "kaomoji": "m(. .)m",
+    "subcategory": "Apologizing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000460",
+    "kaomoji": "<(_ _)>",
+    "subcategory": "Apologizing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000461",
+    "kaomoji": "人(_ _*)",
+    "subcategory": "Apologizing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000462",
+    "kaomoji": "(*_ _)人",
+    "subcategory": "Apologizing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000463",
+    "kaomoji": "m(_ _;m)",
+    "subcategory": "Apologizing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000464",
+    "kaomoji": "(m;_ _)m",
+    "subcategory": "Apologizing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000465",
+    "kaomoji": "(シ. .)シ",
+    "subcategory": "Apologizing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000466",
+    "kaomoji": "(*￣ii￣)",
+    "subcategory": "Nosebleeding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000467",
+    "kaomoji": "(￣ﾊ￣*)",
+    "subcategory": "Nosebleeding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000468",
+    "kaomoji": "\\(￣ﾊ￣)",
+    "subcategory": "Nosebleeding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000469",
+    "kaomoji": "(＾་།＾)",
+    "subcategory": "Nosebleeding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000470",
+    "kaomoji": "(＾〃＾)",
+    "subcategory": "Nosebleeding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000471",
+    "kaomoji": "(￣ ¨ヽ￣)",
+    "subcategory": "Nosebleeding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000472",
+    "kaomoji": "(￣ ;￣)",
+    "subcategory": "Nosebleeding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000473",
+    "kaomoji": "(￣ ;;￣)",
+    "subcategory": "Nosebleeding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000474",
+    "kaomoji": "|･ω･)",
+    "subcategory": "Hiding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000475",
+    "kaomoji": "ﾍ(･_|",
+    "subcategory": "Hiding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000476",
+    "kaomoji": "|ω･)ﾉ",
+    "subcategory": "Hiding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000477",
+    "kaomoji": "ヾ(･|",
+    "subcategory": "Hiding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000478",
+    "kaomoji": "|д･)",
+    "subcategory": "Hiding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000479",
+    "kaomoji": "|_￣))",
+    "subcategory": "Hiding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000480",
+    "kaomoji": "|▽//)",
+    "subcategory": "Hiding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000481",
+    "kaomoji": "┬┴┬┴┤(･_├┬┴┬┴",
+    "subcategory": "Hiding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000482",
+    "kaomoji": "┬┴┬┴┤･ω･)ﾉ",
+    "subcategory": "Hiding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000483",
+    "kaomoji": "┬┴┬┴┤( ͡° ͜ʖ├┬┴┬┴",
+    "subcategory": "Hiding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000484",
+    "kaomoji": "|_・)",
+    "subcategory": "Hiding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000485",
+    "kaomoji": "|･д･)ﾉ",
+    "subcategory": "Hiding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000486",
+    "kaomoji": "|ʘ‿ʘ)╯",
+    "subcategory": "Hiding",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000487",
+    "kaomoji": "__φ(．．)",
+    "subcategory": "Writing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000488",
+    "kaomoji": "( ￣ー￣)φ__",
+    "subcategory": "Writing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000489",
+    "kaomoji": "__φ(。。)",
+    "subcategory": "Writing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000490",
+    "kaomoji": "__φ(．．;)",
+    "subcategory": "Writing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000491",
+    "kaomoji": "ヾ( `ー´)シφ__",
+    "subcategory": "Writing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000492",
+    "kaomoji": "__〆(￣ー￣ )",
+    "subcategory": "Writing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000493",
+    "kaomoji": "....φ(・∀・*)",
+    "subcategory": "Writing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000494",
+    "kaomoji": "___〆(・∀・)",
+    "subcategory": "Writing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000495",
+    "kaomoji": "( ^▽^)ψ__",
+    "subcategory": "Writing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000496",
+    "kaomoji": "....φ(︶▽︶)φ....",
+    "subcategory": "Writing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000497",
+    "kaomoji": "( . .)φ__",
+    "subcategory": "Writing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000498",
+    "kaomoji": "__φ(◎◎ヘ)",
+    "subcategory": "Writing",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000499",
+    "kaomoji": "☆ﾐ(o*･ω･)ﾉ",
+    "subcategory": "Running",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000500",
+    "kaomoji": "C= C= C= C= C=┌(;・ω・)┘",
+    "subcategory": "Running",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000501",
+    "kaomoji": "─=≡Σ((( つ＞＜)つ",
+    "subcategory": "Running",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000502",
+    "kaomoji": "ε=ε=ε=ε=┌(;￣▽￣)┘",
+    "subcategory": "Running",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000503",
+    "kaomoji": "ε=ε=┌( >_<)┘",
+    "subcategory": "Running",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000504",
+    "kaomoji": "C= C= C= C=┌( `ー´)┘",
+    "subcategory": "Running",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000505",
+    "kaomoji": "ε===(っ≧ω≦)っ",
+    "subcategory": "Running",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000506",
+    "kaomoji": "ヽ(￣д￣;)ノ=3=3=3",
+    "subcategory": "Running",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000507",
+    "kaomoji": "。。。ミヽ(。＞＜)ノ",
+    "subcategory": "Running",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000508",
+    "kaomoji": "[(－－)]..zzZ",
+    "subcategory": "Sleeping",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000509",
+    "kaomoji": "(－_－) zzZ",
+    "subcategory": "Sleeping",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000510",
+    "kaomoji": "(∪｡∪)｡｡｡zzZ",
+    "subcategory": "Sleeping",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000511",
+    "kaomoji": "(－ω－) zzZ",
+    "subcategory": "Sleeping",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000512",
+    "kaomoji": "(￣o￣) zzZZzzZZ",
+    "subcategory": "Sleeping",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000513",
+    "kaomoji": "(( _ _ ))..zzzZZ",
+    "subcategory": "Sleeping",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000514",
+    "kaomoji": "(￣ρ￣)..zzZZ",
+    "subcategory": "Sleeping",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000515",
+    "kaomoji": "(－.－)...zzz",
+    "subcategory": "Sleeping",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000516",
+    "kaomoji": "(＿ ＿*) Z z z",
+    "subcategory": "Sleeping",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000517",
+    "kaomoji": "(x . x) ~~zzZ",
+    "subcategory": "Sleeping",
+    "category": "Various Actions"
+  },
+  {
+    "id": "km_000518",
+    "kaomoji": "(=^･ω･^=)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000519",
+    "kaomoji": "(=^･ｪ･^=)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000520",
+    "kaomoji": "(=①ω①=)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000521",
+    "kaomoji": "( =ω=)..nyaa",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000522",
+    "kaomoji": "(= ; ｪ ; =)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000523",
+    "kaomoji": "(=`ω´=)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000524",
+    "kaomoji": "(=^‥^=)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000525",
+    "kaomoji": "( =ノωヽ=)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000526",
+    "kaomoji": "(=⌒‿‿⌒=)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000527",
+    "kaomoji": "(=^ ◡ ^=)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000528",
+    "kaomoji": "(=^-ω-^=)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000529",
+    "kaomoji": "ヾ(=`ω´=)ノ”",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000530",
+    "kaomoji": "(＾• ω •＾)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000531",
+    "kaomoji": "(/ =ω=)/",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000532",
+    "kaomoji": "ฅ(•ㅅ•❀)ฅ",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000533",
+    "kaomoji": "ฅ(• ɪ •)ฅ",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000534",
+    "kaomoji": "ଲ(ⓛ ω ⓛ)ଲ",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000535",
+    "kaomoji": "(^=◕ᴥ◕=^)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000536",
+    "kaomoji": "( =ω= )",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000537",
+    "kaomoji": "(^˵◕ω◕˵^)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000538",
+    "kaomoji": "(^◔ᴥ◔^)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000539",
+    "kaomoji": "(^◕ᴥ◕^)",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000540",
+    "kaomoji": "ต(=ω=)ต",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000541",
+    "kaomoji": "( Φ ω Φ )",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000542",
+    "kaomoji": "ฅ(^◕ᴥ◕^)ฅ",
+    "subcategory": "Cat",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000543",
+    "kaomoji": "( ´(ｴ)ˋ )",
+    "subcategory": "Bear",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000544",
+    "kaomoji": "(*￣(ｴ)￣*)",
+    "subcategory": "Bear",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000545",
+    "kaomoji": "ヽ(￣(ｴ)￣)ﾉ",
+    "subcategory": "Bear",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000546",
+    "kaomoji": "(／￣(ｴ)￣)／",
+    "subcategory": "Bear",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000547",
+    "kaomoji": "(￣(ｴ)￣)",
+    "subcategory": "Bear",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000548",
+    "kaomoji": "ヽ( ˋ(ｴ)´ )ﾉ",
+    "subcategory": "Bear",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000549",
+    "kaomoji": "⊂(￣(ｴ)￣)⊃",
+    "subcategory": "Bear",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000550",
+    "kaomoji": "(／(ｴ)＼)",
+    "subcategory": "Bear",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000551",
+    "kaomoji": "⊂(´(ェ)ˋ)⊃",
+    "subcategory": "Bear",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000552",
+    "kaomoji": "(/-(ｴ)-＼)",
+    "subcategory": "Bear",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000553",
+    "kaomoji": "(/°(ｴ)°)/",
+    "subcategory": "Bear",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000554",
+    "kaomoji": "ʕ •̀ ω •́ ʔ",
+    "subcategory": "Bear",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000555",
+    "kaomoji": "∪･ω･∪",
+    "subcategory": "Dog",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000556",
+    "kaomoji": "∪･ｪ･∪",
+    "subcategory": "Dog",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000557",
+    "kaomoji": "Ｕ^皿^Ｕ",
+    "subcategory": "Dog",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000558",
+    "kaomoji": "U^ｪ^U",
+    "subcategory": "Dog",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000559",
+    "kaomoji": "／(≧ x ≦)＼",
+    "subcategory": "Rabbit",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000560",
+    "kaomoji": "／(･ × ･)＼",
+    "subcategory": "Rabbit",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000561",
+    "kaomoji": "／(=´x`=)＼",
+    "subcategory": "Rabbit",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000562",
+    "kaomoji": "／(^ x ^)＼",
+    "subcategory": "Rabbit",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000563",
+    "kaomoji": "／(=･ x ･=)＼",
+    "subcategory": "Rabbit",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000564",
+    "kaomoji": "／(^ × ^)＼",
+    "subcategory": "Rabbit",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000565",
+    "kaomoji": "／(＞×＜)＼",
+    "subcategory": "Rabbit",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000566",
+    "kaomoji": "／(˃ᆺ˂)＼",
+    "subcategory": "Rabbit",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000567",
+    "kaomoji": "( ´(00)ˋ )",
+    "subcategory": "Pig",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000568",
+    "kaomoji": "(￣(ω)￣)",
+    "subcategory": "Pig",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000569",
+    "kaomoji": "ヽ( ˋ(00)´ )ノ",
+    "subcategory": "Pig",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000570",
+    "kaomoji": "( ´(oo)ˋ )",
+    "subcategory": "Pig",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000571",
+    "kaomoji": "＼(￣(oo)￣)／",
+    "subcategory": "Pig",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000572",
+    "kaomoji": "｡ﾟ(ﾟ´(00)`ﾟ)ﾟ｡",
+    "subcategory": "Pig",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000573",
+    "kaomoji": "(￣(00)￣)",
+    "subcategory": "Pig",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000574",
+    "kaomoji": "(ˆ(oo)ˆ)",
+    "subcategory": "Pig",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000575",
+    "kaomoji": "(￣Θ￣)",
+    "subcategory": "Bird",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000576",
+    "kaomoji": "(`･Θ･´)",
+    "subcategory": "Bird",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000577",
+    "kaomoji": "( ˋ Θ ´ )",
+    "subcategory": "Bird",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000578",
+    "kaomoji": "(◉Θ◉)",
+    "subcategory": "Bird",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000579",
+    "kaomoji": "＼( ˋ Θ ´ )／",
+    "subcategory": "Bird",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000580",
+    "kaomoji": "(･θ･)",
+    "subcategory": "Bird",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000581",
+    "kaomoji": "(・Θ・)",
+    "subcategory": "Bird",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000582",
+    "kaomoji": "ヾ(￣◇￣)ノ〃",
+    "subcategory": "Bird",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000583",
+    "kaomoji": "(･Θ･)",
+    "subcategory": "Bird",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000584",
+    "kaomoji": "(°)#))<<",
+    "subcategory": "Fish",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000585",
+    "kaomoji": "<・ )))><<",
+    "subcategory": "Fish",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000586",
+    "kaomoji": "ζ°)))彡",
+    "subcategory": "Fish",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000587",
+    "kaomoji": ">°))))彡",
+    "subcategory": "Fish",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000588",
+    "kaomoji": "(°))<<",
+    "subcategory": "Fish",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000589",
+    "kaomoji": ">^)))<～～",
+    "subcategory": "Fish",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000590",
+    "kaomoji": "≧( ° ° )≦",
+    "subcategory": "Fish",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000591",
+    "kaomoji": "/╲/\\╭(ఠఠ益ఠఠ)╮/\\╱\\",
+    "subcategory": "Spider",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000592",
+    "kaomoji": "/╲/\\╭(ರರ⌓ರರ)╮/\\╱\\",
+    "subcategory": "Spider",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000593",
+    "kaomoji": "/╲/\\╭( ͡°͡° ͜ʖ ͡°͡°)╮/\\╱\\",
+    "subcategory": "Spider",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000594",
+    "kaomoji": "/╲/\\( •̀ ω •́ )/\\╱\\",
+    "subcategory": "Spider",
+    "category": "Animals"
+  },
+  {
+    "id": "km_000595",
+    "kaomoji": "ヾ(・ω・)メ(・ω・)ノ",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000596",
+    "kaomoji": "ヽ(∀° )人( °∀)ノ",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000597",
+    "kaomoji": "ヽ( ⌒o⌒)人(⌒-⌒ )ﾉ",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000598",
+    "kaomoji": "(*^ω^)八(⌒▽⌒)八(-‿‿- )ヽ",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000599",
+    "kaomoji": "＼(＾∀＾)メ(＾∀＾)ノ",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000600",
+    "kaomoji": "ヾ(￣ー￣(≧ω≦*)ゝ",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000601",
+    "kaomoji": "ヽ( ⌒ω⌒)人(=^‥^= )ﾉ",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000602",
+    "kaomoji": "ヽ(≧◡≦)八(o^ ^o)ノ",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000603",
+    "kaomoji": "(*・∀・)爻(・∀・*)",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000604",
+    "kaomoji": "｡*:☆(・ω・人・ω・)｡:゜☆｡",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000605",
+    "kaomoji": "o(^^o)(o^^o)(o^^o)(o^^)o",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000606",
+    "kaomoji": "(((￣(￣(￣▽￣)￣)￣)))",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000607",
+    "kaomoji": "(°(°ω(°ω°(☆ω☆)°ω°)ω°)°)",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000608",
+    "kaomoji": "ヾ(・ω・`)ノヾ(´・ω・)ノ゛",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000609",
+    "kaomoji": "Ψ( `∀)(∀´ )Ψ",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000610",
+    "kaomoji": "(っ˘▽˘)(˘▽˘)˘▽˘ς)",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000611",
+    "kaomoji": "(((*°▽°*)八(*°▽°*)))",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000612",
+    "kaomoji": "☆ヾ(*´・∀・)ﾉヾ(・∀・`*)ﾉ☆",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000613",
+    "kaomoji": "(*＾ω＾)人(＾ω＾*)",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000614",
+    "kaomoji": "٩(๑･ิᴗ･ิ)۶٩(･ิᴗ･ิ๑)۶",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000615",
+    "kaomoji": "(☞°ヮ°)☞ ☜(°ヮ°☜)",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000616",
+    "kaomoji": "＼(▽￣ \\ (￣▽￣) / ￣▽)／",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000617",
+    "kaomoji": "\\( ˙▿˙ )/\\( ˙▿˙ )/",
+    "subcategory": "Friends",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000618",
+    "kaomoji": "ヽ( ･∀･)ﾉ_θ彡☆Σ(ノ `Д´)ノ",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000619",
+    "kaomoji": "(*´∇`)┌θ☆(ﾉ>_<)ﾉ",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000620",
+    "kaomoji": "( ￣ω￣)ノﾞ⌒☆ﾐ(o _ _)o",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000621",
+    "kaomoji": "(*`0´)θ☆(メ°皿°)ﾉ",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000622",
+    "kaomoji": "(o¬‿¬o )...☆ﾐ(*x_x)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000623",
+    "kaomoji": "(╬￣皿￣)=○＃(￣#)３￣)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000624",
+    "kaomoji": "(; -_-)――――――C<―_-)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000625",
+    "kaomoji": "＜( ￣︿￣)︵θ︵θ︵☆(＞口＜－)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000626",
+    "kaomoji": "(￣ε(#￣)☆╰╮o(￣▽￣///)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000627",
+    "kaomoji": "ヽ(>_<ヽ) ―⊂|=0ヘ(^‿^ )",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000628",
+    "kaomoji": "ヘ(>_<ヘ) ￢o(￣‿￣ﾒ)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000629",
+    "kaomoji": ",,((( ￣□)_／ ＼_(○￣ ))),,",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000630",
+    "kaomoji": "(҂` ﾛ ´)︻デ═一 ＼(º □ º l|l)/",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000631",
+    "kaomoji": "(╯°Д°)╯︵ /(.□ . ＼)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000632",
+    "kaomoji": "(¬_¬'')ԅ(￣ε￣ԅ)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000633",
+    "kaomoji": "/( .□.)＼ ︵╰(°益°)╯︵ /(.□. /)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000634",
+    "kaomoji": "(ﾉ-.-)ﾉ….((((((((((((●~* ( >_<)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000635",
+    "kaomoji": "!!(ﾒ￣ ￣)_θ☆°0°)/",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000636",
+    "kaomoji": "(`⌒*)O-(`⌒´Q)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000637",
+    "kaomoji": "(((ง’ω’)و三 ง’ω’)ڡ≡　☆⌒ﾐ((x_x)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000638",
+    "kaomoji": "(งಠ_ಠ)ง　σ( •̀ ω •́ σ)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000639",
+    "kaomoji": "(っ•﹏•)っ ✴==≡눈٩(`皿´҂)ง",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000640",
+    "kaomoji": "(｢• ω •)｢ (⌒ω⌒`)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000641",
+    "kaomoji": "( °ᴗ°)~ð (/❛o❛\\)",
+    "subcategory": "Enemies",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000642",
+    "kaomoji": "( ・∀・)・・・--------☆",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000643",
+    "kaomoji": "(/-_・)/D・・・・・------ →",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000644",
+    "kaomoji": "(^ω^)ノﾞ(((((((((●～*",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000645",
+    "kaomoji": "( -ω-)／占~~~~~",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000646",
+    "kaomoji": "(/・・)ノ　　 (( く ((へ",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000647",
+    "kaomoji": "―⊂|=0ヘ(^^ )",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000648",
+    "kaomoji": "○∞∞∞∞ヽ(^ー^ )",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000649",
+    "kaomoji": "(; ・_・)――――C",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000650",
+    "kaomoji": "(ಠ o ಠ)¤=[]:::::>",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000651",
+    "kaomoji": "(*＾＾)/~~~~~~~~~~◎",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000652",
+    "kaomoji": "￢o(￣-￣ﾒ)",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000653",
+    "kaomoji": "―(T_T)→",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000654",
+    "kaomoji": "((( ￣□)_／",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000655",
+    "kaomoji": "(ﾒ` ﾛ ´)︻デ═一",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000656",
+    "kaomoji": "( ´-ω･)︻┻┳══━一",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000657",
+    "kaomoji": "(ﾒ￣▽￣)︻┳═一",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000658",
+    "kaomoji": "✴==≡눈٩(`皿´҂)ง",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000659",
+    "kaomoji": "Q(`⌒´Q)",
+    "subcategory": "Weapons",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000660",
+    "kaomoji": "(ノ ˘_˘)ノ　ζ|||ζ　ζ|||ζ　ζ|||ζ",
+    "subcategory": "Magic",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000661",
+    "kaomoji": "(ﾉ≧∀≦)ﾉ ‥…━━━★",
+    "subcategory": "Magic",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000662",
+    "kaomoji": "(ﾉ>ω<)ﾉ :｡･:*:･ﾟ’★,｡･:*:･ﾟ’☆",
+    "subcategory": "Magic",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000663",
+    "kaomoji": "(ノ°∀°)ノ⌒･*:.｡. .｡.:*･゜ﾟ･*☆",
+    "subcategory": "Magic",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000664",
+    "kaomoji": "╰( ͡° ͜ʖ ͡° )つ──☆*:・ﾟ",
+    "subcategory": "Magic",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000665",
+    "kaomoji": "(＃￣□￣)o━∈・・━━━━☆",
+    "subcategory": "Magic",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000666",
+    "kaomoji": "(⊃｡•́‿•̀｡)⊃━✿✿✿✿✿✿",
+    "subcategory": "Magic",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000667",
+    "kaomoji": "(∩ᄑ_ᄑ)⊃━☆ﾟ*･｡*･:≡( ε:)",
+    "subcategory": "Magic",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000668",
+    "kaomoji": "(/￣ー￣)/~~☆’.･.･:★’.･.･:☆",
+    "subcategory": "Magic",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000669",
+    "kaomoji": "(∩` ﾛ ´)⊃━炎炎炎炎炎",
+    "subcategory": "Magic",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000670",
+    "kaomoji": "(っ˘ڡ˘ς)",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000671",
+    "kaomoji": "( o˘◡˘o) ┌iii┐",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000672",
+    "kaomoji": "(　’ω’)旦~~",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000673",
+    "kaomoji": "( ˘▽˘)っ♨",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000674",
+    "kaomoji": "♨o(>_<)o♨",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000675",
+    "kaomoji": "( ・ω・)o-{{[〃]}}",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000676",
+    "kaomoji": "(　・ω・)⊃-[二二]",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000677",
+    "kaomoji": "( ・・)つ―{}@{}@{}-",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000678",
+    "kaomoji": "( ・・)つ-●●●",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000679",
+    "kaomoji": "(*´ー`)旦 旦(￣ω￣*)",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000680",
+    "kaomoji": "(*´з`)口ﾟ｡ﾟ口(・∀・ )",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000681",
+    "kaomoji": "( o^ ^o)且 且(´ω`*)",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000682",
+    "kaomoji": "( ￣▽￣)[] [](≧▽≦ )",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000683",
+    "kaomoji": "( *^^)o∀*∀o(^^* )",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000684",
+    "kaomoji": "( ^^)_旦~~　 ~~U_(^^ )",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000685",
+    "kaomoji": "(*￣▽￣)旦 且(´∀`*)",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000686",
+    "kaomoji": "-●●●-ｃ(・・ )",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000687",
+    "kaomoji": "( ・・)つ―●○◎-",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000688",
+    "kaomoji": "(￣﹃￣)",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000689",
+    "kaomoji": "(๑ᵔ⤙ᵔ๑)",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000690",
+    "kaomoji": "(´ᵔ⤙ᵔ`)",
+    "subcategory": "Food",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000691",
+    "kaomoji": "ヾ(´〇`)ﾉ♪♪♪",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000692",
+    "kaomoji": "ヘ(￣ω￣ヘ)",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000693",
+    "kaomoji": "(〜￣▽￣)〜",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000694",
+    "kaomoji": "〜(￣▽￣〜)",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000695",
+    "kaomoji": "ヽ(o´∀`)ﾉ♪♬",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000696",
+    "kaomoji": "(ﾉ≧∀≦)ﾉ",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000697",
+    "kaomoji": "♪ヽ(^^ヽ)♪",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000698",
+    "kaomoji": "♪(/_ _ )/♪",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000699",
+    "kaomoji": "♪♬((d⌒ω⌒b))♬♪",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000700",
+    "kaomoji": "└(￣-￣└))",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000701",
+    "kaomoji": "((┘￣ω￣)┘",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000702",
+    "kaomoji": "√(￣‥￣√)",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000703",
+    "kaomoji": "└(＾＾)┐",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000704",
+    "kaomoji": "┌(＾＾)┘",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000705",
+    "kaomoji": "＼(￣▽￣)＼",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000706",
+    "kaomoji": "／(￣▽￣)／",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000707",
+    "kaomoji": "(￣▽￣)/♫•*¨*•.¸¸♪",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000708",
+    "kaomoji": "(^_^♪)",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000709",
+    "kaomoji": "(~˘▽˘)~",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000710",
+    "kaomoji": "~(˘▽˘~)",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000711",
+    "kaomoji": "ヾ(⌐■_■)ノ♪",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000712",
+    "kaomoji": "(〜￣△￣)〜",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000713",
+    "kaomoji": "(~‾▽‾)~",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000714",
+    "kaomoji": "~(˘▽˘)~",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000715",
+    "kaomoji": "乁( • ω •乁)",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000716",
+    "kaomoji": "(｢• ω •)｢",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000717",
+    "kaomoji": "⁽⁽◝( • ω • )◜⁾⁾",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000718",
+    "kaomoji": "✺◟( • ω • )◞✺",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000719",
+    "kaomoji": "♬♫♪◖(● o ●)◗♪♫♬",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000720",
+    "kaomoji": "( ˘ ɜ˘) ♬♪♫",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000721",
+    "kaomoji": "♪♪♪ ヽ(ˇ∀ˇ )ゞ",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000722",
+    "kaomoji": "(ˇ▽ˇ)ノ♪♬♫",
+    "subcategory": "Music",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000723",
+    "kaomoji": "( ^^)p_____|_o____q(^^ )",
+    "subcategory": "Games",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000724",
+    "kaomoji": "(／o^)/ °⊥ ＼(^o＼)",
+    "subcategory": "Games",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000725",
+    "kaomoji": "!(;ﾟoﾟ)o/￣￣￣￣￣￣￣~ >ﾟ))))彡",
+    "subcategory": "Games",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000726",
+    "kaomoji": "ヽ(^o^)ρ┳┻┳°σ(^o^)ノ",
+    "subcategory": "Games",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000727",
+    "kaomoji": "(／_^)／　　●　＼(^_＼)",
+    "subcategory": "Games",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000728",
+    "kaomoji": "( (≡|≡))_／ ＼_((≡|≡) )",
+    "subcategory": "Games",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000729",
+    "kaomoji": "( ノ-_-)ノﾞ_□ VS □_ヾ(^-^ヽ)",
+    "subcategory": "Games",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000730",
+    "kaomoji": "ヽ(；^ ^)ノﾞ ．．．...___〇",
+    "subcategory": "Games",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000731",
+    "kaomoji": "(=O*_*)=O Q(*_*Q)",
+    "subcategory": "Games",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000732",
+    "kaomoji": "Ю　○三　＼(￣^￣＼)",
+    "subcategory": "Games",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000733",
+    "kaomoji": "(˙ω˙)🎮(˙∀˙)🎮",
+    "subcategory": "Games",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000734",
+    "kaomoji": "( ͡° ͜ʖ ͡°)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000735",
+    "kaomoji": "( ͡° ʖ̯ ͡°)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000736",
+    "kaomoji": "( ͠° ͟ʖ ͡°)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000737",
+    "kaomoji": "( ͡ᵔ ͜ʖ ͡ᵔ)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000738",
+    "kaomoji": "( . •́ _ʖ •̀ .)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000739",
+    "kaomoji": "( ఠ ͟ʖ ఠ)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000740",
+    "kaomoji": "( ͡ಠ ʖ̯ ͡ಠ)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000741",
+    "kaomoji": "( ಠ ʖ̯ ಠ)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000742",
+    "kaomoji": "( ಠ ͜ʖ ಠ)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000743",
+    "kaomoji": "( ಥ ʖ̯ ಥ)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000744",
+    "kaomoji": "( ͡• ͜ʖ ͡• )",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000745",
+    "kaomoji": "( ･ิ ͜ʖ ･ิ)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000746",
+    "kaomoji": "( ͡  ͜ʖ ͡  )",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000747",
+    "kaomoji": "(≖ ͜ʖ≖)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000748",
+    "kaomoji": "(ʘ ʖ̯ ʘ)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000749",
+    "kaomoji": "(ʘ ͟ʖ ʘ)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000750",
+    "kaomoji": "(ʘ ͜ʖ ʘ)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000751",
+    "kaomoji": "(;´༎ຶٹ༎ຶ`)",
+    "subcategory": "Faces",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000752",
+    "kaomoji": "٩(ˊ〇ˋ*)و",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000753",
+    "kaomoji": "(￣^￣)ゞ",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000754",
+    "kaomoji": "(－‸ლ)",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000755",
+    "kaomoji": "(╯°益°)╯彡┻━┻",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000756",
+    "kaomoji": "(╮°-°)╮┳━━┳ ( ╯°□°)╯ ┻━━┻",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000757",
+    "kaomoji": "┬─┬ノ( º _ ºノ)",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000758",
+    "kaomoji": "(oT-T)尸",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000759",
+    "kaomoji": "[̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000760",
+    "kaomoji": "(ಠ_ಠ)",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000761",
+    "kaomoji": "౦０o ｡ (‾́。‾́ )y~~",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000762",
+    "kaomoji": "(x(x_(x_x(O_o)x_x)_x)x)",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000763",
+    "kaomoji": "(　･ω･)☞",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000764",
+    "kaomoji": "(⌐■_■)",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000765",
+    "kaomoji": "(◕‿◕✿)",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000766",
+    "kaomoji": "(　￣.)o-　　【　TV　】",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000767",
+    "kaomoji": "｀、ヽ｀ヽ｀、ヽ(ノ＞＜)ノ ｀、ヽ｀☂ヽ｀、ヽ",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000768",
+    "kaomoji": "‿︵‿︵‿︵‿ヽ(°□° )ノ︵‿︵‿︵‿︵",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000769",
+    "kaomoji": "( • )( • )ԅ(≖‿≖ԅ)",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000770",
+    "kaomoji": "( ＾▽＾)っ✂╰⋃╯",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000771",
+    "kaomoji": "〜〜(／￣▽)／　〜ф",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000772",
+    "kaomoji": "ଘ(੭ˊᵕˋ)੭* ੈ✩‧₊˚",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000773",
+    "kaomoji": "ଘ(੭ˊ꒳​ˋ)੭✧",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000774",
+    "kaomoji": "_(:3 」∠)_",
+    "subcategory": "Special",
+    "category": "Other Types"
+  },
+  {
+    "id": "km_000775",
+    "kaomoji": "∠( ᐛ 」∠)_",
+    "subcategory": "Special",
+    "category": "Other Types"
+  }
+]

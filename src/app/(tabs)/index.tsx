@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function HomeScreen() {
   const colors = useColors()
   return (
-    <View style={[styles.container , {backgroundColor:colors.background}]}>
+    <View>
       <Text style={styles.title}>Welcome 👋</Text>
 
       <Text style={styles.subtitle}>

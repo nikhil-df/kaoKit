@@ -1,7 +1,7 @@
 import { Redirect } from "expo-router";
 
 export default function Index() {
-  const isUserLogin : boolean = false;
+  const isUserLogin : boolean = true;
 
   if (isUserLogin) {
     return <Redirect href="/(tabs)" />;

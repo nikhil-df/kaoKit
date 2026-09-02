@@ -11,6 +11,12 @@ export default function TabsLayout (){
             }}
             />
             <Tabs.Screen
+            name="makeMoji"
+            options={{
+                headerShown:false
+            }}
+            />
+            <Tabs.Screen
             name="profile"
             options={{
                 headerShown:false

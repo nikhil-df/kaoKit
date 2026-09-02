@@ -1,4 +1,4 @@
-[
+{ "kamomojis" : [
   {
     "id": "km_000001",
     "kaomoji": "(* ^ ω ^)",
@@ -4649,4 +4649,4 @@
     "subcategory": "Special",
     "category": "Other Types"
   }
-]
+]}

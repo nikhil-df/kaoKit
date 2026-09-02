@@ -1,5 +1,7 @@
 import { useColors } from "@/constants/colors";
 import { StyleSheet, Text, View } from "react-native";
+import data from "@/assets/data/kaomojis_with_ids.json";
+
 
 export default function HomeScreen() {
   const colors = useColors()

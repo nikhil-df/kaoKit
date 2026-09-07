@@ -38,7 +38,7 @@ export default function UseMojiCard({ data }: UserCardProps) {
   };
 
   return (
-    <Pressable style={[{ backgroundColor: colors.card, borderBlockColor: colors.border }, styles.container]}
+    <Pressable style={[{ backgroundColor: colors.card , borderColor : colors.border, shadowColor: colors.cardShadow}, styles.container]}
       onPress={handleCopy}
     >
       <View style={styles.kaomojiContainer}>
@@ -78,8 +78,15 @@ const styles = StyleSheet.create({
     paddingBottom: 0,
     paddingHorizontal:20,
     margin: 10,
-    borderRadius: 10,
-    borderWidth: 3
+    borderRadius: 20,
+    borderWidth: 1,
+    shadowOffset: {
+      width: 0,
+      height: 4,
+    },
+    shadowOpacity: 0.15,
+    shadowRadius: 20,
+    elevation: 5,
   },
   kaomoji: {
     fontWeight: '900'

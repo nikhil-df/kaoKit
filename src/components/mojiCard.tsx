@@ -2,17 +2,10 @@ import { useColors } from "@/constants/colors"
 import { Pressable, StyleSheet, Text, useWindowDimensions, View } from "react-native"
 import * as Clipboard from "expo-clipboard";
 import { useState } from "react";
-
-type Kaomoji =
-  {
-    id: string,
-    kaomoji: string,
-    subcategory: string,
-    category: string
-  }
+import { kaomoji } from "@/constants/types/kaomojiTypes";
 
 type UserCardProps = {
-  data: Kaomoji
+  data: kaomoji
 }
 
 

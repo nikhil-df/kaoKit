@@ -7,7 +7,7 @@ export const categories : string[] = [
   "Various Actions",
 ];
 
-export const subcategories : string[] = [
+export const subCategories : string[] = [
   "Anger",
   "Apologizing",
   "Bear",

@@ -1,10 +1,47 @@
-export const categories : string[] = [
-  "Animals",
-  "Negative Emotions",
-  "Neutral Emotions",
-  "Other Types",
-  "Positive Emotions",
-  "Various Actions",
+export type Category = {
+  id: string;
+  label: string;
+  value: string;
+  icon: string;
+};
+
+export const categories: Category[] = [
+  {
+    id: "animals",
+    label: "Cute Critters",
+    value: "Animals",
+    icon: "🐾",
+  },
+  {
+    id: "negative-emotions",
+    label: "Sad & Grumpy",
+    value: "Negative Emotions",
+    icon: "🥺",
+  },
+  {
+    id: "neutral-emotions",
+    label: "Chill & Neutral",
+    value: "Neutral Emotions",
+    icon: "😐",
+  },
+  {
+    id: "other-types",
+    label: "Random Stuff",
+    value: "Other Types",
+    icon: "✨",
+  },
+  {
+    id: "positive-emotions",
+    label: "Happy & Positive",
+    value: "Positive Emotions",
+    icon: "💖",
+  },
+  {
+    id: "various-actions",
+    label: "Actions & Gestures",
+    value: "Various Actions",
+    icon: "🙌",
+  },
 ];
 
 export const subCategories : string[] = [
